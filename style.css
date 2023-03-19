@@ -406,7 +406,7 @@ hr{
     margin: 40px 5px 0;
     color: burlywood;
     cursor: pointer;
-    transition: .5s;
+    transition: 0.5s;
 }
 .social-links .fa:hover{
     background: aliceblue;
